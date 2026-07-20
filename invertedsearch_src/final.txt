@@ -1,0 +1,12 @@
+#0;are;1;f2.txt;1;#
+#7;how;1;f2.txt;1;#
+#7;hello;1;f1.txt;1;#
+#7;hussain;1;f1.txt;1;#
+#8;is;1;f1.txt;1;#
+#12;my;1;f1.txt;1;#
+#12;m;1;f1.txt;1;#
+#13;name;1;f1.txt;1;#
+#18;sir;2;f1.txt;1;f2.txt;1;#
+#18;sanjay;1;f1.txt;1;#
+#18;shetty;1;f1.txt;1;#
+#24;you;1;f2.txt;1;#
